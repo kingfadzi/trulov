@@ -1,0 +1,8 @@
+site_name: "trulov"
+site_description: "MayDay MayDay!!"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
